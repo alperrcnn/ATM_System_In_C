@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1749815823 source:c:\users\alper\desktop\atm_project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
